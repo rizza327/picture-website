@@ -1,0 +1,28 @@
+*{ margin: 0;
+  padding-left: 0;
+  box-sizing: border-box;
+}
+.photos{
+  object-fit: cover;
+  display: flex;
+  flex-direction: row;
+  flex-wrap:wrap;
+  justify-content: center;
+}
+h1{
+  text-align: center;
+  font-family: 'Amatic SC', cursive;
+  font-size: 500%;
+  color:#FF0000;
+  margin-bottom: 7px;
+}
+img{
+  margin: 4px;
+  margin-top: 3px;
+  margin-left: 9px;
+  margin-right: 9px;
+}
+.body{
+  background-color:#FFFFBD;
+  
+}
